@@ -2,7 +2,6 @@ import com.bridgelabz.exceptionhandling.UserRegistrationExceptionHandling;
 import com.bridgelabz.exceptionhandling.UserRegistrationException;
 import org.junit.Before;
 import org.junit.Test;
-
 import static org.junit.Assert.assertEquals;
 
 public class UserRegistrationTest {
